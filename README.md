@@ -31,8 +31,8 @@
     * `git push -u origin master`
         * uploads local repository content to a remote repository.
 * The edits should render a webpage which resembles the image below
-
-![](./.instruction-images/syntax-template.png "")
+<img src = "./.instruction-images/syntax-template.png">
+<!-- ![](./.instruction-images/syntax-template.png "") -->
 
 
 
@@ -49,8 +49,8 @@
     * `git commit -m "finished edits on 'body_template.html' "`
     * `git push -u origin master`
 * The edits should render a webpage which resembles the image below
-
-![](./.instruction-images/body-template.png "")
+<img src = "./.instruction-images/body-template.png">
+<!-- ![](./.instruction-images/body-template.png "") -->
 
 
 
@@ -73,8 +73,8 @@
     * `git push -u origin master`
 
 * The edits should render a webpage which resembles the image below
-
-![](./.instruction-images/models-template.png "")
+<img src = "./.instruction-images/models-template.png">
+<!-- ![](./.instruction-images/models-template.png "") -->
 
 
 
@@ -94,8 +94,8 @@
     * `git push -u origin master`
 
 * The edits should render a webpage which resembles the image below
-
-![](./.instruction-images/headings-template.png "")
+<img src = "./.instruction-images/headings-template.png">
+<!-- ![](./.instruction-images/headings-template.png "") -->
 
 
 
