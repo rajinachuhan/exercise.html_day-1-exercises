@@ -12,7 +12,7 @@
 * Navigate to your github profile to find the _newly forked repository_.
 * Clone the repository from **your account** into the `~/dev` directory.
    * `cd ~/dev`
-   * `git clone https://www.github.com/${MYUSERNAME}/${PROJECTNAME}`
+   * `git clone https://www.github.com/{MYUSERNAME}/{PROJECTNAME}`
 * Open the newly cloned project in a code editor (Visual Studio Code, for example).
 
 
